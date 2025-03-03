@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+python-dotenv
+PyJWT
+mariadb
+alembic
+pymysql
+email-validator
+passlib==1.7.4
+python-jose[cryptography]>=3.3.0
